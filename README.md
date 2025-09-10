@@ -1,6 +1,6 @@
 DevOps Shell Scripting Assessment - task - 1
 Overview
-This repository contains my solution for a DevOps shell scripting assessment, executed manually using individual Linux/Unix commands. Each task was performed step-by-step to demonstrate understanding of fundamental shell operations.
+This repository contains my solution for a DevOps shell scripting assessment, executed manually using individual Linux commands. Each task was performed step-by-step to demonstrate understanding of fundamental shell operations.
 Tasks Completed
 Task 1: Directory and File Operations
 
@@ -18,7 +18,7 @@ Task 2: Batch File Operations
 
 Tech Stack Used
 
-Shell: Bash (Manual Command Execution)
-Environment: Linux/Unix Terminal
+Shell: Bash 
+Environment: Linux Terminal
 Version Control: Git & GitHub
-Approach: Individual command execution (no automation or loops)
+
